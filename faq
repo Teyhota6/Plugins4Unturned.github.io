@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>FAQ - Plugins 4Unturned</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h6
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h5
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h3
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+
+<div w3-include-html="http://plugins.4unturned.tk/header.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+<br><br><br>
+  <div class="container">
+  <div class="row">
+    <div class="col s8 offset-s2 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">FAQ - Frequently Asked Questions</span><br>
+          <ul class="collapsible popout" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>How much do plugins cost?</div>
+      <div class="collapsible-body"><br><ol>All plugins on our site are 100% free of charge!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>Where can I download plugins?</div>
+      <div class="collapsible-body"><br><ol>Hover your cursor over the square icon in the navbar.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>How do I install plugins onto my server?</div>
+      <div class="collapsible-body">
+         <br><ol>
+           <li>1.) Download the plugin. You will get a DLL file. Select and cut it.</li>
+           <li>2.) Navigate to the Plugins folder inside of your Server's Rocket directory.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..\Unturned\Servers\&lt;ServerName&gt;\Rocket\Plugins</li>
+           <li>3.) Paste the DLL file there.</li>
+           <li>4.) Now you can start up your server and let it load completely.</li>
+           <li>5.) Last, you need to close out of your server and then you can edit the config file(s) for the plugin!</li>
+         </ol><br>
+      </div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>Where do I go to report bugs and glitches?</div>
+      <div class="collapsible-body"><br><ol>You can report bugs by <a class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Teyhota@4Unturned.tk" href="#">email</a>, in our Discord server, or by messaging <a href="https://steamcommunity.com/id/Teyhota">Teyhota on Steam!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>How often are plugins updated?</div>
+      <div class="collapsible-body"><br><ol>Plugins will be updated at least once a month, unless there is no need. If there are any bugs and/or glitches that need to be taken care of, they will be ASAP!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>Who makes these wonderful plugins?</div>
+      <div class="collapsible-body"><br><ol>Teyhota =)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>Are plugin downloads safe from viruses and malware?</div>
+      <div class="collapsible-body"><br><ol>Yes! All of our plugins are 100% free of any viruses, malware, spyware, etc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">add</i>What are the Terms of Service?</div>
+      <div class="collapsible-body"><br><ol>You can view our Terms of Service (ToS) agreement <a href="terms">here.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ol><br></div>
+    </li>
+  </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+<br><br>
+<div w3-include-html="http://plugins.4unturned.tk/footer.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="/js/materialize.js"></script>
+  <script src="/js/init.js"></script>
+
+  </body>
+</html>

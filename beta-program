@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Beta Program - Plugins 4Unturned!</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h6
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h2
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+
+<div w3-include-html="http://plugins.4unturned.tk/header.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+<!-- start main page -->
+
+<br><br>
+ <div class="container">
+  <div class="row">
+    <div class="col s6 offset-s3 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">Beta Program!</span>
+          <li class="divider"></li>
+             <span>
+
+<br>
+<font size="4">Overview</font>
+<br><br>
+The Beta Program is designed to let users test out the newest plugin builds and help us find errors in our code. These newer build may contain new features, additions, fixes, etc, but may also be less stable than the current, public release. You can find them on the Plugins 4Unturned <a href="https://github.com/Plugins4Unturned">Github</a> page!
+<br><br>
+<font size="4">Current Betas</font>
+<br><br>
+Here are the plugins that currently have active Betas...
+<br><br>
+
+            </span>
+
+<!-- start Betas -->
+
+<div class="collection">
+    <a href="#" class="collection-item avatar black-text">
+      <img src="img/more.png" height="50" width="50" class="circle">
+      <span class="title"><h6>None right now</h6></span>
+    </a>
+    <!--<a href="https://github.com/Plugins4Unturned/AdvancedChatControl/releases" class="collection-item avatar black-text">
+      <img src="img/otherapps/AdvancedChatControl.png" height="50" width="50" alt="ACC" class="circle">
+      <span class="title"><h6>AdvancedChatControl</h6></span>
+    </a>-->
+  </div>
+
+<!-- end Betas -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+ </div>
+
+
+<br><br>
+
+<!-- end main page -->
+
+<div w3-include-html="http://plugins.4unturned.tk/footer.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

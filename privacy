@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Privacy Policy - Plugins 4Unturned</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h6
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h5
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h3
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+
+<div w3-include-html="http://plugins.4unturned.tk/header.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+<br><br>
+ <div class="container">
+  <div class="row">
+    <div class="col s8 offset-s2 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">Privacy Policy - March 23, 2017</span><br><br><br>
+             <span>
+<font size="4">Information We Collect</font>
+<br><br>
+<b>Device Information</b>
+<br><br>
+We collect device-specific information such as browser data and screen resolution.
+<br><br>
+<b>Log Information</b>
+<br><br>
+When you access our website and download our files, we log different information such as your internet protocol address (IP address) for security purposes.
+<br><br>
+<b>Local Storage</b>
+<br><br>
+Our website may store information on your local hard disk (eg. when you download files).
+<br><br>
+<font size="4">How We Use Your Information</font>
+<br><br>
+<b>Security</b>
+<br><br>
+We use some of your information for security purposes on our website and our servers.
+<br><br>
+<b>Other</b>
+<br><br>
+We use some of your information to provide the best experience when viewing our website!
+<br><br>
+<font size="4">Information Security</font>
+<br><br>
+We know how important security is when dealing with personal information and we know that security is the number one priority for us, especially in this day and age. We don't share your personal information with anybody else besides ourselves (Plugins 4Unturned).
+<br><br>
+<font size="4">Contact Us</font>
+<br><br>
+If you have any questions about these Terms, please contact us <a class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Teyhota@4Unturned.tk" data-tooltip-id="fd16e733-f8f7-eef5-95d4-f7620373c9c3">here</a>.
+</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+ </div>
+
+<div w3-include-html="http://plugins.4unturned.tk/footer.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>

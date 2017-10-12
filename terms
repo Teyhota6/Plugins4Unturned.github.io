@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Terms - Plugins 4Unturned</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+<style>
+@font-face
+{
+font-family: N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY;
+src: url('http://plugins.4unturned.tk/N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY.ttf');
+}
+
+h6
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h5
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+
+h3
+{
+font-family: 'N0c8y_dasvG2CzM7uYqPLn06qf9KHRHwsVx7iw5MXmY', Times, serif;
+}
+</style>
+</head>
+<body>
+
+<div w3-include-html="http://plugins.4unturned.tk/header.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+<br><br>
+<!-- start terms card -->
+
+  <div class="container">
+  <div class="row">
+    <div class="col s8 offset-s2 valign">
+      <div class="card">
+        <div class="card-content black-text">
+          <span class="card-title">Terms of Service ("Terms/ToS")</span><br><br><br>
+          <span>
+<b>Last updated: March 26, 2017</b>
+<br><br>
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the http://plugins.4unturned.tk website (the "Service") operated by Plugins 4Unturned ("us", "we", or "our").
+<br><br>
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+<br><br>
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. This Terms of Service is licensed by TermsFeed to Plugins 4Unturned.
+<br><br>
+<b>Links To Other Web Sites</b>
+<br><br>
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Plugins 4Unturned.
+<br><br>
+Plugins 4Unturned has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Plugins 4Unturned shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+<br><br>
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+<br><br>
+<b>Termination</b>
+<br><br>
+We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+<br><br>
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+<br><br>
+<b>Governing Law</b>
+<br><br>
+These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.
+<br><br>
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+<br><br>
+<b>Changes</b>
+<br><br>
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 60 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+<br><br>
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+<br><br>
+<b>Our Intellectual Property</b>
+<br><br>
+Our services are protected by copyright and trademark laws in the US and other foreign countries. You agree not to change, translate or otherwise create derivative works of our services.
+<br><br>
+<b>Privacy</b>
+<br><br>
+Our Privacy Policy explains how we handle and use user data. Since our plugins don't cost, our policy is very small :)
+<br><br>
+<b>Plugin Licenses</b>
+<br><br>
+All plugins on this site comply with the GNU General Public License version 3 (GPLv3) which can easily be referenced <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">here</a>. You agree to follow the guidelines of this license when downloading and using any plugins on this website!
+<br><br>
+<b>3rd Party Services</b>
+<br><br>
+Plugins 4Unturned is not in any way affiliated with Rocket Mod, Unturned, Google Inc, or Discord. However, we use some of their services.
+<br><br>
+<b>Contact Us</b>
+<br><br>
+If you have any questions about these Terms, please contact us <a class="tooltipped" data-position="bottom" data-delay="50" data-tooltip="Teyhota@4Unturned.tk">here</a>.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+<!-- end terms card -->
+
+<div w3-include-html="http://plugins.4unturned.tk/footer.htm"></div> 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script>
+w3.includeHTML();
+</script>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>
